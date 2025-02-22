@@ -13,8 +13,6 @@
 
 Estudante de Ciência da Computação
 
-🌍 Estudante de Ciência da Computação com bolsa do ProUni e  apaixonada pelo mundo da tecnologia.
-
-💻 Busco constantemente aprimorava minhas habilidades em programação, algoritmos e estrutura de dados.
+🌍 
 
 ![Maria Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=mfernandadias&show_icons=true&theme=dracula)

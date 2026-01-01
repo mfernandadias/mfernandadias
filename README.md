@@ -15,4 +15,4 @@ Estudante de Ciência da Computação
 
 🌍 
 
-![Maria Fernanda GitHub stats](https://github-readme-stats.vercel.app/api?username=mfernandadias&show_icons=true&theme=dracula)
+
